@@ -1,0 +1,89 @@
+/**
+* @name Clear Vibration
+* @version 0.0.1
+* @description Good Vibes
+* @author Roh ❤
+* @invite https://discord.gg/6FdJprvQHS
+*/
+@import url("https://tropix126.github.io/BetterDiscordStuff/aurora/addons/settingsModal.css");
+@import "https://monstrousdev.github.io/themes/addons/categoryNameFlair.css";
+@import url("https://puckzxz.github.io/NotAnotherAnimeTheme/build/v3/naat.v3.css");
+@import url('https://fonts.googleapis.com/css2?family=Hina+Mincho');
+@import url('https://codedotspectra.github.io/themes/core/custom-font.css');
+@import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
+:root {
+--main-theme-color: #000000FF;
+--theme-transparency:#0000004B;
+--theme-background-image: url('https://i.imgur.com/o8ptYkK.jpg');
+--home-icon-image: url('https://i.imgur.com/o8ptYkK.jpg');
+--home-icon-image-zoom: 100%;
+--home-icon-image-position: center;
+--server-listing-width: 72px;
+--font-size: 100%;
+--mention-color: #faa61a0d;
+--mention-sider: #FA0000FF;
+--mention-hover-color: #FAA61A00;
+--category-hover-color: #000000FF;
+--unread-server-animation: rainbow;
+--video-screen-button-background-color: #C8C8C800;
+--video-screen-button-foreground-color: #ffffffff;
+--video-screen-button-background-hovor-color: #C8C8C800;
+--video-screen-button-foreground-hovor-color: #ffffffff;
+--member-listing-role-color: #000000FF;
+--small-user-popout-background-image: url('https://i.imgur.com/o8ptYkK.jpg');
+--small-user-popout-background-transparency: #0000004B;
+--small-user-popout-background-image-position: center;
+--big-user-popout-background-image: url('https://i.imgur.com/o8ptYkK.jpg');
+--big-user-popout-background-transparency: #0000004B;
+--big-user-popout-background-image-position: center;
+--code-markup-background-color: #00000099;
+--code-markup-border: 1px solid transparent;
+--message-box-transparency: #00000000;
+--embed-background-transparency: #00000099;
+--message-hover-buttons-background: #c8c8c81a;
+--context-menu-transparency: #0F0F0F00;
+--add-discover-icon-transparency: #C8C8C800;
+--add-discover-icon-color: #000000FF;
+--channel-limit-count-color: #43b581;
+--channel-limit-background-left: #c8c8c81a;
+--channel-limit-background-right: #c8c8c833;
+--scrollbar-color: #c8c8c833;
+--unread-message-divider-color: #f04747;
+--unread-message-divider-font-color: #ffffff;
+--new-messages-bar-background-color: #FFFFFFFF;
+--new-messages-bar-font-color: #000000FF;
+--emoji-menu-background-color: #FFFFFF00;
+--emoji-menu-sider-background-color: #ffffff;
+--emoji-menu-server-header-background-color: #ffffff;
+--emoji-menu-bottom-bar-background-color: #ffffff;
+--emoji-menu-search-bar-background-color: #ffffff;
+--message-search-menu-background-color: #000000cc;
+--message-search-container-background-color: #00000099;
+--message-search-result-background-color: #c8c8c80d;
+--text-voice-channel-color: #000000FF;
+--text-voice-channel-hover-color: #000000FF;
+--text-voice-channel-selected-text-color: #000000FF;
+--unread-text-channel-color: #ffffff;
+--unread-text-channel-bubble-color: #ffffff;
+--folder-background-color: #2f3136;
+--expanded-folder-background-color: #00000000;
+--reaction-emoji-background-color: #00000000;
+--reaction-emoji-border-color: 1px solid transparent;
+--reaction-emoji-hover-background-color: #ffffff1a;
+--reaction-emoji-hover-border-color: #ffffff33;
+--rs-small-spacing: 2px;
+--rs-medium-spacing: 3px;
+--rs-large-spacing: 4px;
+--rs-small-width: 2px;
+--rs-medium-width: 3px;
+--rs-large-width: 4px;
+--rs-avatar-shape: 50%;
+--rs-online-color: #273BFFFF;
+--rs-idle-color: #faa61a;
+--rs-dnd-color: #f04747;
+--rs-offline-color: #636b75;
+--rs-streaming-color: #643da7;
+--rs-invisible-color: #747f8d;
+--rs-phone-visible: block;
+--customFont: 'Hina Mincho';
+}
