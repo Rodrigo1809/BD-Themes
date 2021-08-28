@@ -1,1 +1,1 @@
-# Bd-themes
+My Better-Discord Themes
